@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .hoverable {
@@ -151,9 +151,8 @@ section {
 }
 .about-box {
   color: black;
-  font-weight: 300px;
-  font-family: sans-serif;
 }
+
 .list-style-1 {
   list-style: none;
   font-weight: 300px;
